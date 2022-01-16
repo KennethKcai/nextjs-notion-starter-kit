@@ -4,11 +4,11 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: 'Split-f1af6f21216242bda82500d8591c5ad6',
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  domain: 'https://calm-player-3df.notion.site/Split-f1af6f21216242bda82500d8591c5ad6',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
