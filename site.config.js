@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '850d7f344ef0455b8e274bfa47975345',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'Split-f1af6f21216242bda82500d8591c5ad6',
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'https://calm-player-3df.notion.site/Split-f1af6f21216242bda82500d8591c5ad6',
+  domain: 'https://www.notion.so/TOEFL-850d7f344ef0455b8e274bfa47975345',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
